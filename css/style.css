@@ -62,6 +62,8 @@
     .cuerpo-index p {
       margin-bottom: 10px; }
     .cuerpo-index img {
+      width: 100%;
+      max-width: 700px;
       margin-bottom: 15px;
       filter: drop-shadow(10px 10px 10px 10p black); }
   .cuerpo-qs {
@@ -78,6 +80,7 @@
   .cuerpo-e {
     text-align: center; }
   .cuerpo-con {
+    width: 100%;
     text-align: center; }
     .cuerpo-con p {
       font-size: 16px; }
