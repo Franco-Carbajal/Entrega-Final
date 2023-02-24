@@ -34,6 +34,7 @@
 .cuerpo {
   background-image: linear-gradient(to bottom, #9a9b94, #a5a69e, #afb1a7, #babcb1, #c5c7bb, #c5c7bb, #c5c7bb, #c5c7bb, #babcb1, #afb1a7, #a5a69e, #9a9b94);
   width: 100%;
+  min-width: 100px;
   height: 100%; }
   .cuerpo h1 {
     text-align: center;
